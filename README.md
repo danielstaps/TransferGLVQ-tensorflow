@@ -1,7 +1,9 @@
 # T-GLVQ_tensorflow
 
 Dependencies:
-keras >= 2.9.0
-numpy >= 1.23.1
-tensorflow >= 2.9.1
-matplotlib >= 3.5.2
++ keras >= 2.9.0
++ numpy >= 1.23.1
++ tensorflow >= 2.9.1
++ matplotlib >= 3.5.2
+
+-> all in venv_tf
