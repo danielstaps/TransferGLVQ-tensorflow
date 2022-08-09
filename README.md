@@ -6,4 +6,12 @@ Dependencies:
 + tensorflow >= 2.9.1
 + matplotlib >= 3.5.2
 
--> all in venv_tf
+Environment:
+```console
+source venv_tf/bin/activate
+```
+
+Example Script:
+```console
+python3 -m examples.bonbons
+```
